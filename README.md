@@ -42,3 +42,7 @@ src/
 - الخريطة (MapRoom) تعتمد على OpenStreetMap Embed وتحتاج اتصالاً بالإنترنت.
 - توكن "أكتفي" يُخزن في localStorage ويمنع الدخول حتى يُحذف.
 - كل فشل يضيف 3 دقائق انتظار (3 ثم 6 ثم 9…).
+
+## دخول الغرف الحقيقة من هنا
+
+https://laurence-bit-v8.github.io/ghurf-al-haqeeqa/
