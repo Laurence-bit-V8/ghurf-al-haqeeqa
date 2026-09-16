@@ -10,7 +10,7 @@ export default function Congrats({ onContinue, onSettle }) {
     <div className="room room-congrats">
       <div className="panel">
         <h2>تهانينا لك على صبرك</h2>
-        <p>الآن أختر: هل تكمل أم تكتفي بما حققته؟</p>
+        {/* <p>الآن أختر: هل تكمل أم تكتفي بما حققته؟</p> */}
 
         {phase === "choice" && (
           <div className="row">
